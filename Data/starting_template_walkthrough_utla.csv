@@ -1,0 +1,53 @@
+Indicator_Name,Sex,Age,Timeperiodrange,Position,type,UKHSA_ID
+Start of life,,,,1,section_circle,
+Smoking at time of delivery,Female,All ages,1y,2,indicator,93085
+Low birth weight,Persons,>=37 weeks gestational age at birth,1y,3,indicator,20101
+Newborn physical examination,Persons,<1 yr,1y,4,indicator,92371
+Infant mortality,Persons,<1 yr,3y,5,indicator,92196
+Breastfeeding at six-eight weeks,Persons,6-8 weeks,1y,6,indicator,92517
+School years,,,,7,section_circle,
+GLD reception,Persons,5yrs,1y,8,indicator,90631
+Underweight reception,Persons,4-5 yrs,1y,9,indicator,90316
+Excess weight reception,Persons,4-5 yrs,1y,10,indicator,90319
+Underweight year six,Persons,10-11 yrs,1y,11,indicator,90320
+Excess weight year six,Persons,10-11 yrs,1y,12,indicator,90323
+Children in care,Persons,<18 yrs,1y,13,indicator,90803
+KS2 attainment,Persons,10-11 yrs,1y,14,indicator,92672
+HPV vaccination coverage boys,Male,12-13 yrs,1y,15,indicator,92319
+HPV vaccination coverage girls,Female,12-13 yrs,1y,16,indicator,92319
+U16 living in poverty,Persons,,,17,indicator,
+Unintentional and deliberate injury admissions 0-14,Persons,<15 yrs,1y,18,indicator,90284
+Unintentional and deliberate injury admissions 15-24,Persons,15-24 yrs,1y,19,indicator,90285
+Average attainment 8 score,Persons,15-16 yrs,1y,20,indicator,93378
+Teenage mothers,Female,12-17 yrs,1y,21,indicator,90811
+NEET 16-17 year olds,Persons,16-17 yrs,1y,22,indicator,93203
+First time entrants to youth justice system,Persons,10-17 yrs,1y,23,indicator,10401
+Early working life,,,,24,section_circle,
+outdoor space for exercise,Persons,16+ yrs,1y,25,indicator,11601
+Current smokers,Persons,18+ yrs,1y,26,indicator,93798
+Smoking in early pregnancy,Female,Not applicable,1y,27,indicator,93579
+Emergency admissions intentional self-harm,Persons,All ages,1y,28,indicator,21001
+Successful completion of non-opiate drug treatment,Persons,18+ yrs,1y,29,indicator,90245
+Admission episodes for alcohol related conditions (narrow definition),Persons,All ages,1y,30,indicator,93764
+Physically active adults,Persons,19+ yrs,1y,31,indicator,93014
+Those with long term condition in employment,Persons,16-64 yrs,1y,32,indicator,93882
+Mid working life to retirement,,,,33,section_circle,
+Low happiness,Persons,16+ yrs,1y,34,indicator,22303
+Overweight adults,Persons,18+ yrs,1y,35,indicator,93088
+Breast cancer screening (36 month coverage),Female,53-70 yrs,1y,36,indicator,22001
+Bowel cancer screening (30 month coverage),Persons,60-74 yrs,1y,37,indicator,91720
+NHS Health Check uptake,Persons,40-74 yrs,3m,38,indicator,91116
+HIV late diagnoses,Persons,15+ yrs,3y,39,indicator,90791
+Under 75 mortality (all cause),Persons,<75 yrs,1y,40,indicator,108
+Under 75 CVD mortality,Persons,<75 yrs,1y,41,indicator,40401
+Under 75 cancer mortality,Persons,<75 yrs,1y,42,indicator,40501
+Retirement to older age,Persons,,,43,section_circle,
+ASC user social contact,Persons,65+ yrs,1y,44,indicator,90280
+Flu vaccine uptake 65+,Persons,65+ yrs,1y,45,indicator,30314
+Emergency admissions for hip fractures 65+,Persons,65+ yrs,1y,46,indicator,41401
+Male slope of inequality in life expectancy at birth,Male,All ages,3y,47,indicator,92901
+Female slope of inequality in life expectancy at birth,Female,All ages,3y,48,indicator,92901
+Male life expectancy at birth,Male,All ages,1y,49,indicator,90366
+Female life expectancy at birth,Female,All ages,1y,50,indicator,90366
+Male healthy life expectancy at birth,Male,All ages,3y,51,indicator,90362
+Female healthy life expectancy at birth,Female,All ages,3y,52,indicator,90362

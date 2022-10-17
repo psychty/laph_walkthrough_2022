@@ -16,7 +16,7 @@ function Comparison_key() {
             {comparison_values_df.map(circle => (
 
                 <CompareItemDiv className = {circle.sig_class}>
-                <p>{circle.sig_title}</p>
+                <p className={circle.sig_class + 'compo'}>{circle.sig_title}</p>
                 </CompareItemDiv>
                       
                  ))}

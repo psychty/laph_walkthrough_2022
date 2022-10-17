@@ -17,7 +17,6 @@ code {
 }
 
 body {
-  -webkit-text-size-adjust: none;
   width: 80%;
   margin: auto;
 }
@@ -55,28 +54,26 @@ b{
   text-align: center;
   }
 
-
 .section_circle {
   background-color: #000000;
   color: #ffffff;
   font-size: .7rem;
   text-align: center;
-  min-width: 85px;
-  min-height: 85px;
-  width: 5vw;
-  height: 5vw;
+  min-width: 80px;
+  min-height: 80px;
+  width: 3vw;
+  height: 3vw;
   border-radius: 50%;
  }
-    
 
 .better {
   background-color: #3ECC26;
   font-size: .7rem;
   text-align: center;
-  min-width: 55px;
-  min-height: 55px;
-  width: 3vw;
-  height: 3vw;
+  min-width: 45px;
+  min-height: 45px;
+  width: 2.5vw;
+  height: 2.5vw;
   border-radius: 50%;
  }
   
@@ -85,10 +82,10 @@ b{
   font-size: .7rem;
   color: #fff;
   text-align: center;
-  min-width: 55px;
-  min-height: 55px;
-  width: 3vw;
-  height: 3vw;
+  min-width: 45px;
+  min-height: 45px;
+  width: 2.5vw;
+  height: 2.5vw;
   border-radius: 50%;
 }  
 
@@ -97,10 +94,10 @@ b{
   font-size: .7rem;
   /* color: #fff;s */
   text-align: center;
-  min-width: 55px;
-  min-height: 55px;
-  width: 3vw;
-  height: 3vw;
+  min-width: 45px;
+  min-height: 45px;
+  width: 2.5vw;
+  height: 2.5vw;
   border-radius: 50%;
   }
 
@@ -109,9 +106,13 @@ b{
   font-size: .7rem;
   color: #fff;
   text-align: center;
-  min-width: 55px;
-  min-height: 55px;
-  width: 3vw;
-  height: 3vw;
+  min-width: 45px;
+  min-height: 45px;
+  width: 2.5vw;
+  height: 2.5vw;
   border-radius: 50%;
+}
+
+.worsecompo {
+  color:#3ECC26;
 }
